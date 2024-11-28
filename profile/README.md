@@ -11,7 +11,7 @@ Small group of friends that aims to make cool projects like games and modding to
 ## "Rules"
 
 - [Anybody](https://www.worldometers.info/) can enter
-- You must be able to program in one of the team languages (e.g., HTML, JS/TS)
+- You must be able to program in one of the team languages (JS/TS/Haxe **OR** Lua/Luau)
 - Respect everybody
 - Have fun :D
 
