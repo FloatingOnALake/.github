@@ -19,5 +19,5 @@ Small group of friends that aims to make cool projects like games and modding to
 
 ### Note(s)
 
-Caso queire fazer parte da equipe, faça me mande uma mensagem no Discord -> @patoflamejantetv (sem tags)<br>
-In case you want too be part of the team, send me an DM on Discord -> @patoflamejantetv (no tags)
+Caso queire fazer parte da equipe, faça me mande um e-mail -> patoflamejantetv@gmail.com<br>
+In case you want to be part of the team, send me an e-mail -> patoflamejantetv@gmail.com
